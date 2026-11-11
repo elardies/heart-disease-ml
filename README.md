@@ -3,7 +3,7 @@
 An academic statistical learning project in **R** exploring the prediction of heart disease from clinical and demographic measurements. The analysis compares several classification algorithms and investigates whether smaller feature sets can achieve performance comparable to the full model.
 
 **Authors:** Elena Lardies and Daniela Bialy  
-**Project type:** University coursework
+**Project type:** University coursework. Bachelor in Data Science and Engineering. Universidad Carlos III de Madrid.
 
 ## Dataset
 
